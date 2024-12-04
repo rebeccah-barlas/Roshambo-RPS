@@ -1,0 +1,14 @@
+C:\Users\barla\source\repos\Roshambo - Rock, Paper, Scissors\Roshambo - Rock, Paper, Scissors\bin\Debug\net8.0\Roshambo - Rock, Paper, Scissors.exe
+C:\Users\barla\source\repos\Roshambo - Rock, Paper, Scissors\Roshambo - Rock, Paper, Scissors\bin\Debug\net8.0\Roshambo - Rock, Paper, Scissors.deps.json
+C:\Users\barla\source\repos\Roshambo - Rock, Paper, Scissors\Roshambo - Rock, Paper, Scissors\bin\Debug\net8.0\Roshambo - Rock, Paper, Scissors.runtimeconfig.json
+C:\Users\barla\source\repos\Roshambo - Rock, Paper, Scissors\Roshambo - Rock, Paper, Scissors\bin\Debug\net8.0\Roshambo - Rock, Paper, Scissors.dll
+C:\Users\barla\source\repos\Roshambo - Rock, Paper, Scissors\Roshambo - Rock, Paper, Scissors\bin\Debug\net8.0\Roshambo - Rock, Paper, Scissors.pdb
+C:\Users\barla\source\repos\Roshambo - Rock, Paper, Scissors\Roshambo - Rock, Paper, Scissors\obj\Debug\net8.0\Roshambo - Rock, Paper, Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barla\source\repos\Roshambo - Rock, Paper, Scissors\Roshambo - Rock, Paper, Scissors\obj\Debug\net8.0\Roshambo - Rock, Paper, Scissors.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\Roshambo - Rock, Paper, Scissors\Roshambo - Rock, Paper, Scissors\obj\Debug\net8.0\Roshambo - Rock, Paper, Scissors.AssemblyInfo.cs
+C:\Users\barla\source\repos\Roshambo - Rock, Paper, Scissors\Roshambo - Rock, Paper, Scissors\obj\Debug\net8.0\Roshambo - Rock, Paper, Scissors.csproj.CoreCompileInputs.cache
+C:\Users\barla\source\repos\Roshambo - Rock, Paper, Scissors\Roshambo - Rock, Paper, Scissors\obj\Debug\net8.0\Roshambo - Rock, Paper, Scissors.dll
+C:\Users\barla\source\repos\Roshambo - Rock, Paper, Scissors\Roshambo - Rock, Paper, Scissors\obj\Debug\net8.0\refint\Roshambo - Rock, Paper, Scissors.dll
+C:\Users\barla\source\repos\Roshambo - Rock, Paper, Scissors\Roshambo - Rock, Paper, Scissors\obj\Debug\net8.0\Roshambo - Rock, Paper, Scissors.pdb
+C:\Users\barla\source\repos\Roshambo - Rock, Paper, Scissors\Roshambo - Rock, Paper, Scissors\obj\Debug\net8.0\Roshambo - Rock, Paper, Scissors.genruntimeconfig.cache
+C:\Users\barla\source\repos\Roshambo - Rock, Paper, Scissors\Roshambo - Rock, Paper, Scissors\obj\Debug\net8.0\ref\Roshambo - Rock, Paper, Scissors.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Roshambo - Rock, Paper, Scissors/1.0.0": {
+        "runtime": {
+          "Roshambo - Rock, Paper, Scissors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Roshambo - Rock, Paper, Scissors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
